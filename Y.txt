@@ -50,7 +50,7 @@ bikers
 binge watchers
 binman
 biologists
-blockbuster
+BlockBuster
 blog
 bloggers
 blogging
@@ -67,7 +67,7 @@ burgers
 buyers
 calisthenics
 calligraphy
-cans
+CANS
 cannibal
 carbon life forms
 camping
